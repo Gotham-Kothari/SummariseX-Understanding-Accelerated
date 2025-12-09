@@ -18,6 +18,9 @@ Built using **Flutter** (mobile app) and **FastAPI** (backend), SummariseX integ
 
 ---
 
+![WhatsApp Image 2025-12-08 at 20 40 51_5a930c3e](https://github.com/user-attachments/assets/bd1712d2-2266-4332-b463-f99c3915110e)
+
+
 ## 🛠 Tech Stack
 
 **Frontend (Flutter)**
